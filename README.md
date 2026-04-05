@@ -34,4 +34,4 @@ Provided in this repository.
 ## 📄 Report
 A detailed report of the methodology, results, and analysis is available here:
 
-[View Report](report/nanoparticle_toxicity_report.pdf)
+[View Report](report/Nanoparticle_Toxicity_Classification_Report.pdf)
