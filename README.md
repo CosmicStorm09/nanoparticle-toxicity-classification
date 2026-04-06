@@ -31,7 +31,7 @@ Higher dosage and oxidative interactions significantly increase nanoparticle tox
 ## Dataset
 Provided in this repository.
 
-## 📄 Report
+## Report
 A detailed report of the methodology, results, and analysis is available here:
 
 [View Report](report/Nanoparticle_Toxicity_Classification_Report.pdf)
